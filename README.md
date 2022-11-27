@@ -1,1 +1,2 @@
-# Students Marks Prediction
+# Student Marks Prediction
+
